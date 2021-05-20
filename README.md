@@ -13,3 +13,8 @@
 
 https://user-images.githubusercontent.com/68139755/119012438-aac12000-b9b3-11eb-9513-e7b7923d4e5b.mp4
 
+```
+Note - /vendor/list route may not work, as it requires to have data in the database in local system.
+collection name - items
+To test it create some sample data inside the database (in items collection)
+```
